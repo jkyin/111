@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Framework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>WonderSDK.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>WonderSDKResources.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>AB6A810C1A0C60B600D08E7F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AB6A81161A0C646100D08E7F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AB8CB59E1A0B57AB00EE91EE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AB8CB5AE1A0B57AC00EE91EE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
